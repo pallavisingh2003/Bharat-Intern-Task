@@ -7,6 +7,7 @@
 
 
  Welcome to My Blog Website! This project is a simple blog platform where users can read existing posts and add new ones. The website includes a home page, an about page, and a contact page.
+ 
  Welcome to Registration Form! This project is a simple registration platform where users can sign up or login  their accounts and add new ones. 
 
 
