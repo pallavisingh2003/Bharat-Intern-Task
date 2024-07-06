@@ -24,4 +24,5 @@ The project is organized into the following components:
 - CSS
 - NODE.js
 - MongoDB
+- TailWind
 
