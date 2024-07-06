@@ -1,6 +1,6 @@
 # Bharat-Intern-Task
-# Bharat Intern Task 1 - Registration Form
-# Bharat Intern Task 2 - Blog Website
+ Bharat Intern Task 1 - Registration Form
+ Bharat Intern Task 2 - Blog Website
 
 ## Overview
  # Welcome to the Registration Form and Blog Website project from the Bharat Intern Full Stack Web Development Virtual Internship. This project focuses on creating a simple and efficient projects using HTML, CSS, Node.js, and MongoDB.
